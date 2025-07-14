@@ -1,8 +1,8 @@
 # ✨ Miracle Messages ✨
 
- 💌 Uma automação espiritual que vai alimentar a sua alma todos os dias! 
- 💌 Envia e-mail com uma frase aleatória do livro *Um Curso em Milagres*, para te lembrar do que realmente importa.
- 💌 Criado com Python, amor e fé.
+💌 Uma automação espiritual que vai alimentar a sua alma todos os dias! 
+💌 Envia e-mail com uma frase aleatória do livro *Um Curso em Milagres*, para te lembrar do que realmente importa.
+💌 Criado com Python, amor e fé.
 
 ---
 
@@ -41,9 +41,11 @@ password = "sua_senha_de_app"  # Use senha de aplicativo do Gmail
 python main.py
 ```
 
-## ☁️ **Rodando na nuvem**
+## ☁️ **Rodando na nuvem**:
+
 O projeto está automatizado na plataforma [PythonAnywhere](https://www.pythonanywhere.com/), executando todos os dias automaticamente.
 Para automação diária, configure um cron job ou use PythonAnywhere.
+
 ---
 
 ## 📁 Estrutura do Projeto

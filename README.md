@@ -1,8 +1,8 @@
 # ✨ Miracle Messages ✨
 
-💌 Uma automação espiritual que vai alimentar a sua alma todos os dias! 
-💌 Envia e-mail com uma frase aleatória do livro *Um Curso em Milagres*, para te lembrar do que realmente importa.
-💌 Criado com Python, amor e fé.
+> 💌 Uma automação espiritual que vai alimentar a sua alma todos os dias! 
+> 💌 Envia e-mail com uma frase aleatória do livro *Um Curso em Milagres*, para te lembrar do que realmente importa.
+> 💌 Criado com Python, amor e fé.
 
 ---
 

@@ -1,0 +1,16 @@
+#Arquivos de sistema
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+#Arquivo temporário ou log
+*.log
+*.tmp
+
+#Arquivo do editor
+.idea/
+*.swp
+*.bak
+
+#Outros
+.python-version
